@@ -1,0 +1,18 @@
+.arrow-left{
+  color: white;
+  background-color:lightblue;
+  
+}
+.arrow-right{
+  color: white;
+  background-color:lightblue;
+}
+.slider{
+ display: flex; 
+ margin-left: 200px;
+
+}
+
+h1 {
+  text-align: center;
+}
