@@ -1,0 +1,26 @@
+.box{
+  text-align: justify;
+  width: 800px;
+  margin-left: 300px;
+  margin-right: 500px;
+  background-color: blue;
+  padding: 30px;
+  border-radius: 5px;
+}
+h2{
+  text-align: center;
+  color: white;
+}
+.listItems{
+background-color: white;
+padding: 30px;
+border-radius: 5px; 
+}
+.add{
+  float: right;
+}
+.firstPart{
+  font-weight: bold;
+  display: inline;
+}
+
