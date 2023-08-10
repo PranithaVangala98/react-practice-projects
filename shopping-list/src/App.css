@@ -1,0 +1,23 @@
+
+.content{
+  background-color: rgb(222, 222, 247);
+  margin-left: 400px;
+  margin-top: 20px;
+  border-style: dashed;
+}
+h3{
+  margin-left: 650px;
+
+}
+h2{
+  padding-top: 10px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.display,.form{
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
